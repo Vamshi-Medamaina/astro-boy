@@ -5,7 +5,7 @@ A simple asteroid shooting game built with **Python + Pygame**.
 ---
 
 ## 🎮 How to Play
-- Use arrow keys to move your spaceship.
+- Use [W,S,A,D] keys to move your spaceship.
 - Press `SPACE` to shoot bullets.
 - Avoid asteroids and try to score as high as possible!
 
@@ -33,3 +33,4 @@ pip install pygame
 
 ### 5. Run the Game
 python main.py
+

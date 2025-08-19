@@ -16,7 +16,7 @@ A simple asteroid shooting game built with **Python + Pygame**.
 ### 1. Clone or Download the Project
 ```bash
 git clone https://github.com/Vamshi-Medamaina/astro-boy.git
-cd pygame-asteroids
+cd astro-boy
 ```
 ### 2. Create a Virtual Environment
 ```python
@@ -40,5 +40,6 @@ pip install pygame
 ```python
 python main.py
 ```
+
 
 
